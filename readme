@@ -1,0 +1,37 @@
+# Basic Compiler for a Custom Programming Language
+
+## Project Overview
+
+The goal of this project is to build a basic compiler for a custom programming language. The language is designed to be simple yet functional. It will support basic arithmetic operations, variable assignments, and control structures such as conditionals and loops.
+
+The compiler will be implemented in Python, which provides powerful tools for text processing, parsing, and building language processing systems.
+
+## Objectives
+
+The main objectives of this project are:
+
+- Design a simple programming language with a clear syntax
+- Implement a lexer to transform source code into tokens
+- Implement a parser to build a structured representation of the program
+- Perform basic semantic checks
+- Generate an intermediate representation or executable output
+
+## Features of the Language
+
+The language will include:
+
+- Arithmetic operations (`+`, `-`, `*`, `/`)
+- Variable declaration and assignment
+- Conditional statements (`if`, `else`)
+- Loop structures (such as `while`)
+- Simple expressions and statements
+
+
+## Requirements
+
+- Python 3.9 or higher
+
+Install dependencies (if any):
+
+```bash
+pip install -r requirements.txt
